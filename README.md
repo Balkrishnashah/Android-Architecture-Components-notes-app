@@ -36,5 +36,7 @@ The `DataRepository` exposes the data to the UI layer. To ensure that the UI use
 
 Here is the sample video of the developed application :
 
+https://user-images.githubusercontent.com/34792418/126954794-ee2bafa4-4363-4733-a6ca-db8c2635115b.mp4
+
 
 
